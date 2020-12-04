@@ -1,8 +1,8 @@
-(module 1.75u-swap (layer F.Cu) (tedit 5FC9895E)
-  (fp_text reference REF** (at 16.66875 13.025) (layer F.SilkS)
+(module 1.75u-swap (layer F.Cu) (tedit 5FC98D2D)
+  (fp_text reference REF** (at 16.66875 14.605) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value 1u-swappable (at 16.66875 14.525) (layer F.Fab) hide
+  (fp_text value 1u-swappable (at 16.66875 17) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0 19.05) (end 33.3375 19.05) (layer F.Fab) (width 0.05))
